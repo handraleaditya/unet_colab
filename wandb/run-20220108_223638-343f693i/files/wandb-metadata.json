@@ -1,0 +1,29 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.9.0",
+    "heartbeatAt": "2022-01-08T21:37:00.179023",
+    "startedAt": "2022-01-08T21:36:38.854719",
+    "docker": null,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "-e",
+        "10",
+        "-b",
+        "16",
+        "-v",
+        "20"
+    ],
+    "state": "running",
+    "program": "D:\\Uni\\Data science lab\\rekt\\Pytorch-UNet\\train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/milesial/Pytorch-UNet.git",
+        "commit": "0921374ee4ed02688ef5ed48c50b241ee8911069"
+    },
+    "email": "handraleaditya@gmail.com",
+    "root": "D:/Uni/Data science lab/rekt/Pytorch-UNet",
+    "host": "DESKTOP-9SF1SHL",
+    "username": "lucyd",
+    "executable": "C:\\Users\\handr\\anaconda3\\envs\\ai\\python.exe"
+}
